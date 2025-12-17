@@ -1,0 +1,42 @@
+GUIA DE CARTAS - GWENT LITE
+===========================
+
+Nesta versão simplificada do Gwent, as cartas são representadas por números inteiros.
+O número da carta indica o seu Poder (quantos pontos ela adiciona ao seu placar).
+
+TIPOS DE CARTAS
+---------------
+
+1. CARTAS ESPECIAIS
+   Existem apenas 3 números que possuem efeitos mágicos ao serem jogados.
+
+   [ 3 ] - MUSTER (Reunir Tropas)
+         * Poder: 3 pontos para você.
+         * Efeito: Ao jogar essa carta, ela procura automaticamente no seu DECK (baralho) 
+           por todas as outras cópias da carta "3" e as joga imediatamente na mesa.
+         * Estratégia: Ótima para fazer muitos pontos de uma vez e "afinar" o baralho.
+
+   [ 6 ] - SPY (Espião)
+         * Poder: 6 pontos para o OPONENTE (Cuidado!).
+         * Efeito: Você compra 1 carta extra do seu baralho.
+         * Estratégia: Usada para ganhar vantagem de cartas (Card Advantage). 
+           Geralmente jogada em rodadas que você pretende perder ou quando o oponente já está muito na frente.
+
+   [ 9 ] - SCORCH (Terra Queimada - Simplificado)
+         * Poder: 9 pontos para você.
+         * Efeito: Remove imediatamente até 5 pontos do placar atual do oponente.
+         * Estratégia: Além de ser uma carta forte (9), ela reduz a pontuação inimiga, 
+           criando um diferencial efetivo de até 14 pontos (9 seus + 5 tirados dele).
+
+2. CARTAS COMUNS (Normais)
+   Qualquer outro número (1, 2, 4, 5, 7, 8, 10, etc.) é uma carta normal.
+   
+   * Efeito: Apenas adiciona o valor da carta ao seu placar total.
+   * Exemplo: Se você jogar uma carta "15", você ganha 15 pontos.
+
+RESUMO DAS REGRAS BÁSICAS
+-------------------------
+- Mão inicial: 10 cartas.
+- Vitória: Quem tiver mais pontos quando ambos passarem vence a rodada.
+- Jogo: Melhor de 3 rodadas (precisa ganhar 2).
+- Passar: Se você passar, não pode mais jogar cartas naquela rodada, mas o oponente pode continuar jogando até passar ou acabar as cartas.

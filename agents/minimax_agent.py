@@ -3,7 +3,7 @@ import math
 import numpy as np
 
 class MinimaxAgent:
-    def __init__(self, depth=4):
+    def __init__(self, depth=3):
         self.depth = depth
         self.expanded_nodes = 0
 
