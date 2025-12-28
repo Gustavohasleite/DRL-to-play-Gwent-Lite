@@ -1,4 +1,4 @@
-# Gwent IA Definitivo
+# Gwent IA
 
 Este repositório contém o desenvolvimento de agentes de **Deep Reinforcement Learning (DRL)** para o **GwentLite**, uma versão customizada e simplificada do jogo de cartas Gwent. 
 
